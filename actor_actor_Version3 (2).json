@@ -1,0 +1,17 @@
+{
+    "actorSpecification": 1,
+    "name": "Lemon8 Trend Scraper",
+    "title": "Lemon8 Trend Scraper",
+    "description": "Lemon8 Trend Scraper",
+    "version": "0.0",
+    "meta": {
+        "templateId": "ai-generated-actor",
+        "generatedBy": "Gpt-4o-mini"
+    },
+    "input": "./input_schema.json",
+    "output": "./output_schema.json",
+    "storages": {
+        "dataset": "./dataset_schema.json"
+    },
+    "dockerfile": "../Dockerfile"
+}
